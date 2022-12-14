@@ -31,6 +31,7 @@ I am always looking to work with people that are idealists like me, as well as w
 ### Back-end
 ![JSON Web Tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
 ![WebAPI](https://img.shields.io/badge/web%20api-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Power Platform
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
