@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aldo-garcia-b0b53429/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aldogarciaglez/)
 <br /><br />
 I am Aldo Garcia, a Power Platform and Azure engineer, eager to learn and be a creative coder and self-proclaimed developer specialized in Power Platform, Dynamics 365 CE and .NET.<br /><br />
 I am an avid learner for learning and growing not only in the Power Platform and Azure Stack, but also for the front-end and back-end development with the CI/CD automation.<br /><br />
